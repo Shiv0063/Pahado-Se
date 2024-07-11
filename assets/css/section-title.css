@@ -1,0 +1,28 @@
+.section-header {
+    position: relative;
+    margin-bottom: var(--space-40);
+}
+.section-header .section-sub-title {
+    font-family: var(--font-family-base);
+    font-size: var(--fs-14);
+    font-weight: var(--fw-semibold);
+    line-height: var(--fs-28);
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    color: var(--color-primary);
+}
+
+.section-header .section-title {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-medium);
+    line-height: var(--fs-56);
+    letter-spacing: 0px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.section-header .section-desc {
+    font-size: var(--fs-14);
+    font-weight: var(--fw-normal);
+    line-height: 24px;
+}

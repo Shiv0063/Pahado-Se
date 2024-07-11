@@ -1,0 +1,34 @@
+/*
+    [ Shortcode Stylesheet ]
+    <?xml version="1.0" encoding="UTF-8"?>
+
+    Theme Name: Vacasky - Construction Html5 Template
+    Author: WPThemeBooster
+    Author URI: www.wpthemebooster.com
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+  1. Fonts, Icons and Other Styles Import
+  2. Reset
+    2-1. Body, Font, Container, Space
+    2-2. Placeholder Customize
+    2-3. Social Icons Color
+    2-4. Input, Textarea (All forms field) customization
+    2-5. Button Styling
+  3. Menu
+  4. Section Heading
+  5. Slider 
+  6. Footer
+
+-----------------------------------------------------------------*/
+@import url('../../../../../../../css2');
+@import url("../fonts/bootstrap-icons/font/bootstrap-icons.css");
+@import url("bootstrap.min.css");
+@import url("global.css");
+@import url("../../plugins/swiper/swiper-bundle.min.css");
+@import url("header.css");
+@import url("section-title.css");
+@import url("footer.css");
+@import url("style.css");
+@import url("responsive.css");
